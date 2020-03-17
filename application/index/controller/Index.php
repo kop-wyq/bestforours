@@ -17,8 +17,8 @@ class Index
 </head>
 <style>
     body {
-        width: 80%;
-        height: 80%;
+        width: 1900px;
+        height: 900px;
         margin: 0 auto;
         background-image: url('static/images/20200318001838.jpg');
     }
