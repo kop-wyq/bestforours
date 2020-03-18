@@ -7,7 +7,6 @@ class Index extends Controller
 {
     public function index()
     {
-        return 1111;
-//        return $this->fetch();
+        return $this->fetch();
     }
 }
